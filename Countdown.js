@@ -1,5 +1,5 @@
 //This is to show when the counter will stop
-var countDownDate = new Date("Nov 29 2024 00:00:00").getTime();
+var countDownDate = new Date("Aug 29 2024 00:00:00").getTime();
 //This interval will repeat at 1000miliseconds
 var x = setInterval(function(){
 //This is to store the current date and time
